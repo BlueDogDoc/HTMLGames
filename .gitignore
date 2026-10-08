@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+
+# Commercial game dumps stay local.
+pacman/pacman.zip
+pacman/puckman.zip
+metalslug/mslug.zip
+metalslug/neogeo.zip
